@@ -104,6 +104,9 @@ public class Register extends AppCompatActivity implements View.OnClickListener{
                     if (task.isSuccessful()){
                         Toast.makeText(Register.this,"Check your Email for Verification",Toast.LENGTH_SHORT).show();
                         FirebaseAuth.getInstance().signOut();
+                        finish();
+                        startActivity(new Intent(Register.this,login.class));
+
                     }
                 }
             });
