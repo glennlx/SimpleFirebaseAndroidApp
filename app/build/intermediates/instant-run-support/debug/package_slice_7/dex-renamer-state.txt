@@ -1,0 +1,4 @@
+#Sat Apr 06 15:29:29 IST 2019
+base.0=C\:\\Users\\Nidhi Prakash\\Desktop\\Login-Signup-using-Firebase-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+renamed.0=classes.dex
+file.0=C\:\\Users\\Nidhi Prakash\\Desktop\\Login-Signup-using-Firebase-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8\\classes.dex
