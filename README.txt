@@ -1,3 +1,6 @@
+This app was modified by me. 
+Here are some instructions to follow w.r.t. the app 
+
 1. The apk is there in the APK folder and also present in app>release>app-release.apk
 2.Code comprises of three Activities.
   	a.login.java(main)
@@ -7,6 +10,7 @@
 	a.activity_main.xml
 	b.activity_register.xml
 	c.activity_dashboard.xml
+	
 **********************************************************************************
 Steps to run the app.
 1.Signup using the asked details and full fill all the requirements.
