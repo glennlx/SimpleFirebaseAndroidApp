@@ -131,6 +131,7 @@ public class login extends AppCompatActivity {
                     dialog.dismiss();
 
                     Toast.makeText(login.this, "Login not successfull", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(login.this, "Debug : "+task.getException().getMessage(), Toast.LENGTH_SHORT).show();
 
                 } else {
                     dialog.dismiss();

@@ -5,22 +5,22 @@ package com.example.nidhi.try1;
  */
 
 class User {
-    String Displayname;
+    private String DisplayName;
 
 
-    String Email;
-    long createdAt;
+    private String Email;
+    private long createdAt;
 
     public User (){};
     public User(String displayname,String email,long createdAt){
-        this.Displayname=displayname;
+        this.DisplayName=displayname;
        this.Email=email;
         this.createdAt=createdAt;
     }
 
 
-    public String getDisplayname() {
-        return Displayname;
+    public String getDisplayName() {
+        return DisplayName;
     }
 
     public String getEmail() {

@@ -118,12 +118,12 @@ public class Register extends AppCompatActivity implements View.OnClickListener{
     }
 
     private void createAnewUser(String uid) {
-        User user = BuildNewuser();
+        User user = BuildNewUser();
         mdatabase.child(uid).setValue(user);
     }
 
 
-    private User BuildNewuser(){
+    private User BuildNewUser(){
         return new User(
                 getDisplayName(),
                 getUserEmail(),
@@ -138,5 +138,11 @@ public class Register extends AppCompatActivity implements View.OnClickListener{
     public String getUserEmail() {
         return Email;
     }
+
+    public String setDisplayName() { return "";}
+
+    public String setUserEmail() { return "";}
+
+
 
 }

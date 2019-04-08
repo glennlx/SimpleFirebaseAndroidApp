@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\Android Apps\Nidhi\Login-Signup-using-Firebase-master-20190407T173512Z-001\Login-Signup-using-Firebase-master\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="E:\Android Apps\Nidhi\Login-Signup-using-Firebase-master-20190407T173512Z-001\Login-Signup-using-Firebase-master\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Nidhi Prakash\Desktop\Cloud Project\SimpleFirebaseAndroidApp\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Nidhi Prakash\Desktop\Cloud Project\SimpleFirebaseAndroidApp\app\src\debug\shaders"/></dataSet></merger>
